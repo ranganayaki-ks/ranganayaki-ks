@@ -53,17 +53,33 @@
 
 ## 👩‍💻 About Me
 
-<div style="display: flex; gap: 20px; align-items: stretch; margin-bottom: 24px; flex-wrap: wrap;">
-  
-  <div style="flex: 1.5; min-width: 320px; display: flex; flex-direction: column; gap: 20px;">
-    
-    <div style="background-color: #0d1117; border-radius: 8px; border: 1px solid #30363d; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
-      <div style="background-color: #161b22; padding: 10px 16px; display: flex; align-items: center; border-bottom: 1px solid #30363d;">
-        <div style="display: flex; gap: 8px;">
-          <div style="width: 12px; height: 12px; border-radius: 50%; background-color: #ff5f56;"></div>
-          <div style="width: 12px; height: 12px; border-radius: 50%; background-color: #ffbd2e;"></div>
-          <div style="width: 12px; height: 12px; border-radius: 50%; background-color: #27c93f;"></div>
-        </div>
+<img src="./female-coder.gif" width="380" alt="Female Developer Coding Animation" align="right" />
+
+```javascript
+const Ranganayaki = {
+  role: "Full Stack & AI Developer",
+  location: "India 🇮🇳",
+  focus: [
+    "AI Technology",
+    "Website / Software Development"
+  ],
+  learning: [
+    "AI Tools",
+    "Prompt Engineering",
+    "Advanced Scalable Web"
+  ],
+  techStack: {
+    frontend: ["HTML/CSS", "Bootstrap", "JS"],
+    backend: ["PHP", "Java", "Python"],
+    database: ["MySQL", "Relational DBs"]
+  }
+}
+```
+
+> *"The right tools don't replace craft — they amplify your speed to ship."*  
+> **— Modern Developer Mindset**
+
+<br clear="both"/>
         <div style="margin-left: 16px; color: #8b949e; font-size: 13px; font-family: monospace;">about-me.js</div>
       </div>
       <div style="padding: 20px; color: #c9d1d9; font-family: 'Consolas', monospace; font-size: 14px; line-height: 1.6; overflow-x: auto;">
