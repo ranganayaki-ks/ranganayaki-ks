@@ -245,21 +245,6 @@ const Ranganayaki = {
 
 ---
 
-## ⚡ Productivity & Daily Flow
-
-```
-  🌅  08:00 AM – 11:00 AM   ░░░░░░░░░░░░   Planning, Problem Solving (LeetCode / CodeChef) 🧠
-  🌞  11:00 AM – 04:00 PM   ████████████   Full Focus: ERP Dev, Backend logic, MySQL schemas 💻
-  🌆  04:00 PM – 08:00 PM   ██████████░░   UI/UX in Figma + Vibecoding with Antigravity & Windsurf ⚡
-  🌙  08:00 PM – 12:00 AM   ███████░░░░░   Code reviews, open source explore & "one last commit" 🌙
-```
-
-### 🧠 Developer Operating System
-
-| Core Discipline | Working Reality |
-
----
-
 ## 🌟 Languages & Soft Skills
 
 <div align="center">
@@ -285,14 +270,14 @@ const Ranganayaki = {
 
 ## 🎯 2026 – 2027 Roadmap
 
-- [x] 🚀 Build and ship an enterprise-grade ERP Business Operations Platform
-- [x] 🎨 Design high-fidelity, user-centered apps (Teachers App & SkillWave)
-- [x] ⚡ Integrate AI & Vibecoding tools (Antigravity, Windsurf, Lovable) into daily workflow
-- [x] 📜 Earn credentials in Prompt Engineering (IBM) & UX Design (Google)
-- [x] 💼 Secure a high-impact Software Developer / UI-UX Internship
-- [ ] 🏆 Solve 300+ problem challenges across LeetCode & CodeChef
-- [ ] 🌐 Contribute to impactful open-source enterprise and design systems
-- [ ] ⭐ Earn 100+ stars on GitHub open-source repositories
+- ✅ 🚀 Build and ship an enterprise-grade ERP Business Operations Platform
+- ✅ 🎨 Design high-fidelity, user-centered apps (Teachers App & SkillWave)
+- ✅ ⚡ Integrate AI & Vibecoding tools (Antigravity, Windsurf, Lovable) into daily workflow
+- ✅ 📜 Earn credentials in Prompt Engineering (IBM) & UX Design (Google)
+- ✅ 💼 Secure a high-impact Software Developer / UI-UX Internship
+- ⏳ 🏆 Solve 300+ problem challenges across LeetCode & CodeChef
+- ⏳ 🌐 Contribute to impactful open-source enterprise and design systems
+- ⏳ ⭐ Earn 100+ stars on GitHub open-source repositories
 
 ---
 
