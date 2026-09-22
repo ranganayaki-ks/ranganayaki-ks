@@ -277,12 +277,6 @@
 ### 🧠 Developer Operating System
 
 | Core Discipline | Working Reality |
-|---|---|
-| 💡 **System Design** | Mapped in FigJam & notebook schemas before touching code |
-| ⚡ **Vibecoding** | Antigravity, Windsurf & Lovable for hyper-fast prototyping & testing |
-| 🗄️ **Databases** | Normalized 3NF schemas, foreign keys, and indexes for peak query speeds |
-| 🎨 **UI / UX** | Accessibility first, strict typography scale, mobile-tested |
-| 🚀 **Shipping** | Incremental commits, early previews on Netlify, zero blockers |
 
 ---
 
