@@ -80,44 +80,6 @@ const Ranganayaki = {
 > **— Modern Developer Mindset**
 
 <br clear="both"/>
-        <div style="margin-left: 16px; color: #8b949e; font-size: 13px; font-family: monospace;">about-me.js</div>
-      </div>
-      <div style="padding: 20px; color: #c9d1d9; font-family: 'Consolas', monospace; font-size: 14px; line-height: 1.6; overflow-x: auto;">
-        <span style="color: #ff7b72;">const</span> <span style="color: #79c0ff;">Ranganayaki</span> = {<br/>
-        &nbsp;&nbsp;<span style="color: #a5d6ff;">role</span>: <span style="color: #a5d6ff;">"Full Stack & AI Developer"</span>,<br/>
-        &nbsp;&nbsp;<span style="color: #a5d6ff;">location</span>: <span style="color: #a5d6ff;">"India 🇮🇳"</span>,<br/><br/>
-        &nbsp;&nbsp;<span style="color: #a5d6ff;">focus</span>: [<br/>
-        &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #a5d6ff;">"AI Technology"</span>,<br/>
-        &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #a5d6ff;">"Website / Software Development"</span><br/>
-        &nbsp;&nbsp;],<br/><br/>
-        &nbsp;&nbsp;<span style="color: #a5d6ff;">learning</span>: [<br/>
-        &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #a5d6ff;">"AI Tools"</span>,<br/>
-        &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #a5d6ff;">"Prompt Engineering"</span>,<br/>
-        &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #a5d6ff;">"Advanced Scalable Web"</span><br/>
-        &nbsp;&nbsp;],<br/><br/>
-        &nbsp;&nbsp;<span style="color: #a5d6ff;">techStack</span>: {<br/>
-        &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #a5d6ff;">frontend</span>: [<span style="color: #a5d6ff;">"HTML/CSS"</span>, <span style="color: #a5d6ff;">"Bootstrap"</span>, <span style="color: #a5d6ff;">"JS"</span>],<br/>
-        &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #a5d6ff;">backend</span>: [<span style="color: #a5d6ff;">"PHP"</span>, <span style="color: #a5d6ff;">"Java"</span>, <span style="color: #a5d6ff;">"Python"</span>],<br/>
-        &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #a5d6ff;">database</span>: [<span style="color: #a5d6ff;">"MySQL"</span>, <span style="color: #a5d6ff;">"Relational DBs"</span>]<br/>
-        &nbsp;&nbsp;}<br/>
-        }
-      </div>
-    </div>
-    
-    <div style="background-color: #0d1117; border-left: 4px solid #38bdf8; border-radius: 4px; padding: 16px 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
-      <div style="font-style: italic; color: #38bdf8; font-size: 14.5px; line-height: 1.5;">
-        "The right tools don't replace craft — they amplify your speed to ship."
-      </div>
-      <div style="margin-top: 8px; text-align: right; color: #8b949e; font-size: 13px;">— Modern Developer Mindset</div>
-    </div>
-    
-  </div>
-
-  <div style="flex: 1; min-width: 250px; display: flex;">
-    <img src="./female-coder.gif" alt="Female Developer Coding Animation" style="width: 100%; object-fit: cover; border-radius: 8px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
-  </div>
-  
-</div>
 
 ---
 
