@@ -53,7 +53,7 @@
 
 ## 👩‍💻 About Me
 
-<img src="./female-coder.gif" width="380" alt="Female Developer Coding Animation" align="right" />
+<img src="./female-coder.gif" width="320" alt="Female Developer Coding Animation" align="right" />
 
 ```javascript
 const Ranganayaki = {
@@ -75,6 +75,8 @@ const Ranganayaki = {
   }
 }
 ```
+
+<br/>
 
 > *"The right tools don't replace craft — they amplify your speed to ship."*  
 > **— Modern Developer Mindset**
