@@ -227,14 +227,6 @@ const Ranganayaki = {
 
 </div>
 
-### 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ranganayaki-ks&bg_color=0c1322&color=3b82f6&line=2563eb&point=ffffff&area=true&hide_border=false&border=1d4ed8&area_color=172554" width="100%" alt="Contribution Activity Graph" />
-
-</div>
-
 ### 🟦 Contribution Heatmap
 
 <div align="center">
