@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050810" />
+      <stop offset="50%" stop-color="#0a1224" />
+      <stop offset="100%" stop-color="#0f1f3d" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="100%" height="100%" fill="url(#bg)" rx="16" />
+
+  <!-- Abstract Tech Grid Lines -->
+  <g stroke="#ffffff" stroke-opacity="0.05" stroke-width="1">
+    <path d="M 0 50 L 1000 50 M 0 100 L 1000 100 M 0 150 L 1000 150 M 0 200 L 1000 200 M 0 250 L 1000 250" />
+    <path d="M 100 0 L 100 300 M 200 0 L 200 300 M 300 0 L 300 300 M 400 0 L 400 300 M 500 0 L 500 300 M 600 0 L 600 300 M 700 0 L 700 300 M 800 0 L 800 300 M 900 0 L 900 300" />
+  </g>
+
+  <!-- Name -->
+  <text x="50%" y="40%" dominant-baseline="middle" text-anchor="middle" font-family="'Segoe UI', -apple-system, sans-serif" font-weight="900" font-size="56" fill="#ffffff" letter-spacing="6">
+    RANGANAYAKI KS
+  </text>
+
+  <!-- Dynamic Domain Text -->
+  <style>
+    .dynamic-text {
+      font-family: 'Consolas', 'Courier New', monospace;
+      font-size: 26px;
+      fill: #38bdf8;
+      font-weight: 600;
+      opacity: 0;
+      animation: fadeCycle 12s infinite;
+    }
+    .t1 { animation-delay: 0s; }
+    .t2 { animation-delay: 4s; }
+    .t3 { animation-delay: 8s; }
+    
+    @keyframes fadeCycle {
+      0%, 25% { opacity: 1; transform: translateY(0); }
+      33%, 100% { opacity: 0; transform: translateY(-10px); }
+    }
+  </style>
+
+  <g transform="translate(500, 200)" text-anchor="middle">
+    <text class="dynamic-text t1">&lt; Full Stack Developer /&gt;</text>
+    <text class="dynamic-text t2">AI &amp; Vibecoding Specialist</text>
+    <text class="dynamic-text t3">UI/UX &amp; Enterprise Architect</text>
+  </g>
+</svg>

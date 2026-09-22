@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="245.5" height="28" role="img" aria-label="LINKEDIN: RANGANAYAKI-KS">
+  <title>LINKEDIN: RANGANAYAKI-KS</title>
+  <g shape-rendering="crispEdges">
+    <rect width="100" height="28" fill="#555"/>
+    <rect x="100" width="145.5" height="28" fill="#0a66c2"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
+    <g transform="translate(10, 6) scale(0.68)">
+      <circle cx="4" cy="3.5" r="2.3" fill="#ffffff"/>
+      <rect x="1.7" y="8" width="4.6" height="13" rx="0.6" fill="#ffffff"/>
+      <path d="M9 8h4.2v1.9h.1c.6-1.1 2-2.1 4-2.1 4.2 0 5 2.8 5 6.3v7.9h-4.4v-6.2c0-1.5 0-3.4-2.1-3.4s-2.4 1.6-2.4 3.3v6.3H9V8z" fill="#ffffff"/>
+    </g>
+    <text transform="scale(.1)" x="585" y="175" textLength="590">LINKEDIN</text>
+    <text transform="scale(.1)" x="1727.5" y="175" textLength="1215" font-weight="bold">RANGANAYAKI-KS</text>
+  </g>
+</svg>
